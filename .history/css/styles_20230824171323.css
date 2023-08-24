@@ -78,7 +78,7 @@
 }
 
                                                             /* TESTIMONIALS SECTION  */
-#testimonials {
+.testimonials {
   background-color: #ff4c68;
   text-align: center;
   padding: 7% 15%;
@@ -88,9 +88,9 @@
 
 h2 {
   font-family: 'Montserrat-Black', sans-serif;
-  font-size: 2.5rem;
+  font-size: 3.5rem;
   line-height: 1.5;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .image-testimonial {
