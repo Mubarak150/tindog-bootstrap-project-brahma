@@ -148,7 +148,7 @@ h3 {
 }
                                                   /* CALL TO ACTION */
 #cta {
-  padding: 7% 16% 6%;
+  padding: 6% 14%;
   text-align: center;
   background-color: #ff4c68;
   color: #fff;
@@ -164,18 +164,13 @@ h3 {
 
 #footer {
   text-align: center;
-  padding: 6% 14% 5%;
+  padding: 6% 14%;
 }
 
 .footer-icons {
-  padding: 1% 0.5% 2%;
+  padding: 1%;
 }
 
-.footer-p {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 600;
-  color: #8f8f8f;
-}
 
                                                   /* MEDIA QUERY */
 @media (max-width: 991px) {
